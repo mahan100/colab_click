@@ -1,0 +1,13 @@
+function CaptchaButton(){
+	console.log("captcha pushed");
+document.getElementByTagName("colab-recaptcha-dialog")[0].close()
+}
+setInterval(CaptchaButton,600000);
+
+user for static ip:8ch91348
+pass for static ip:1998
+
+user for vpn:9ch3525
+pass for vpn:6004
+
+
